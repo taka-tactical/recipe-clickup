@@ -1,5 +1,5 @@
 # ClickUp
-Recipe for [ClickUp](https://app.clickup.com/) integration with [Franz 5](http://meetfranz.com).
+Recipe for [ClickUp](https://clickup.com/) integration with [Franz 5](http://meetfranz.com).
 
 ## To test this dev release
 
