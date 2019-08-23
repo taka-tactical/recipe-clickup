@@ -1,0 +1,14 @@
+{
+  "id": "clickup",
+  "name": "ClickUp",
+  "version": "0.0.9",
+  "description": "ClickUp",
+  "main": "index.js",
+  "author": "Taka",
+  "license": "MIT",
+  "repository": "https://github.com/taka-tactical/recipe-clickup",
+  "config": {
+    "serviceURL": "https://app.clickup.com",
+    "hasNotificationSound": true
+  }
+}
